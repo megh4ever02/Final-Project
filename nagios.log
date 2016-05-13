@@ -1,0 +1,63 @@
+[1462934950] Nagios 4.0.8 starting... (PID=27937)
+[1462934950] Local time is Tue May 10 22:49:10 EDT 2016
+[1462934950] LOG VERSION: 2.0
+[1462934950] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1462934950] qh: core query handler registered
+[1462934950] nerd: Channel hostchecks registered successfully
+[1462934950] nerd: Channel servicechecks registered successfully
+[1462934950] nerd: Channel opathchecks registered successfully
+[1462934950] nerd: Fully initialized and ready to rock!
+[1462934950] wproc: Successfully registered manager as @wproc with query handler
+[1462934950] wproc: Registry request: name=Core Worker 27940;pid=27940
+[1462934950] wproc: Registry request: name=Core Worker 27941;pid=27941
+[1462934950] wproc: Registry request: name=Core Worker 27942;pid=27942
+[1462934950] wproc: Registry request: name=Core Worker 27943;pid=27943
+[1462934951] Successfully launched command file worker with pid 27946
+[1462934955] HOST ALERT: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1462934987] SERVICE ALERT: localhost;Current Load;OK;HARD;4;OK - load average: 0.28, 0.72, 0.60
+[1462935025] SERVICE ALERT: localhost;Current Users;OK;HARD;4;USERS OK - 2 users currently logged in
+[1462935062] SERVICE ALERT: localhost;HTTP;WARNING;HARD;4;HTTP WARNING: HTTP/1.1 403 Forbidden - 5179 bytes in 0.001 second response time
+[1462935104] SERVICE ALERT: localhost;PING;OK;HARD;4;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1462935137] SERVICE ALERT: localhost;Root Partition;OK;HARD;4;DISK OK - free space: / 2554 MB (37% inode=98%):
+[1462935175] SERVICE ALERT: localhost;SSH;OK;HARD;4;SSH OK - OpenSSH_6.6.1 (protocol 2.0)
+[1462935212] SERVICE ALERT: localhost;Swap Usage;OK;HARD;4;SWAP OK - 100% free (819 MB out of 819 MB)
+[1462935250] SERVICE ALERT: localhost;Total Processes;OK;HARD;4;PROCS OK: 50 processes with STATE = RSZDT
+[1462935343] Caught SIGTERM, shutting down...
+[1462935343] Successfully shutdown... (PID=27937)
+[1462935343] Event broker module 'NERD' deinitialized successfully.
+[1462935344] Nagios 4.0.8 starting... (PID=28211)
+[1462935344] Local time is Tue May 10 22:55:44 EDT 2016
+[1462935344] LOG VERSION: 2.0
+[1462935344] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1462935344] qh: core query handler registered
+[1462935344] nerd: Channel hostchecks registered successfully
+[1462935344] nerd: Channel servicechecks registered successfully
+[1462935344] nerd: Channel opathchecks registered successfully
+[1462935344] nerd: Fully initialized and ready to rock!
+[1462935344] wproc: Successfully registered manager as @wproc with query handler
+[1462935344] wproc: Registry request: name=Core Worker 28213;pid=28213
+[1462935344] wproc: Registry request: name=Core Worker 28214;pid=28214
+[1462935344] wproc: Registry request: name=Core Worker 28215;pid=28215
+[1462935344] wproc: Registry request: name=Core Worker 28216;pid=28216
+[1462935344] Successfully launched command file worker with pid 28220
+[1462935362] SERVICE ALERT: localhost;HTTP;OK;HARD;4;HTTP OK: HTTP/1.1 301 Moved Permanently - 498 bytes in 0.000 second response time
+[1462935399] Caught SIGTERM, shutting down...
+[1462935399] Successfully shutdown... (PID=28211)
+[1462935399] Event broker module 'NERD' deinitialized successfully.
+[1462935400] Nagios 4.0.8 starting... (PID=28344)
+[1462935400] Local time is Tue May 10 22:56:40 EDT 2016
+[1462935400] LOG VERSION: 2.0
+[1462935400] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1462935400] qh: core query handler registered
+[1462935400] nerd: Channel hostchecks registered successfully
+[1462935400] nerd: Channel servicechecks registered successfully
+[1462935400] nerd: Channel opathchecks registered successfully
+[1462935400] nerd: Fully initialized and ready to rock!
+[1462935400] wproc: Successfully registered manager as @wproc with query handler
+[1462935400] wproc: Registry request: name=Core Worker 28349;pid=28349
+[1462935400] wproc: Registry request: name=Core Worker 28346;pid=28346
+[1462935400] wproc: Registry request: name=Core Worker 28347;pid=28347
+[1462935400] wproc: Registry request: name=Core Worker 28348;pid=28348
+[1462935400] Successfully launched command file worker with pid 28353
+[1462935511] Caught SIGTERM, shutting down...
+[1462935511] Successfully shutdown... (PID=28344)
